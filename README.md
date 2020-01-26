@@ -1,13 +1,11 @@
-<p align="center">
+**![](http://)**<p align="center">
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
     <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
   </a>
 </p>
 
 <p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
-
 <h4 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.</h4>
-
 <br>
 
 <p align="center">
@@ -394,7 +392,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - is the world’s foremost and widely-used network protocol analyzer.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ettercap-project.org/"><b>Ettercap</b></a> - is a comprehensive network monitor tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://etherape.sourceforge.io/"><b>EtherApe</b></a> - is a graphical network monitoring solution.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://jmeter.apache.org/"><b>JMeter™</b></a> - open source software to load test functional behavior and measure performance.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://jmeter.apache.org/"><b>JMeterTM</b></a> - open source software to load test functional behavior and measure performance.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/locustio/locust"><b>locust</b></a> - scalable user load testing tool written in Python.<br>
 </p>
 
